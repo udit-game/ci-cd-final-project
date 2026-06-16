@@ -2,6 +2,9 @@
 
 This repository contains a Node.js/Express.js version of the counter service for the Final Project of the Coursera course **CI/CD Tools and Practices**.
 
+## Project Name
+
+
 ## Features
 
 - RESTful API for managing counters
